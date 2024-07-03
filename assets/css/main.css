@@ -1277,5 +1277,19 @@ section,
 
 
 #upcoming{
-  font-weight: bolder;
+  font-weight:bolder;
+  color: #149ddd;
+}
+
+
+#or{
+  color: #149ddd;
+  text-decoration: double;
+}
+
+
+#brands{
+  font-size: 25px;
+  color: #050d18;
+  margin-left: 20px;
 }
