@@ -1283,7 +1283,7 @@ section,
 
 
 #or{
-  color: #149ddd;
+  color: black;
   text-decoration: double;
 }
 
@@ -1292,4 +1292,14 @@ section,
   font-size: 25px;
   color: #050d18;
   margin-left: 20px;
+}
+
+
+#a{
+  margin: 7px;
+}
+
+
+#ail{
+  color: #149ddd;
 }
